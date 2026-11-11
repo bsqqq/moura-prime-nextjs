@@ -55,6 +55,7 @@ export const metadata = {
     follow: true,
     googleBot: { index: true, follow: true, "max-image-preview": "large" },
   },
+  verification: { google: "2n32RUddtQtv-_FE04hv_3Btl9y1P0np7WDwMpGHwtc" },
   icons: {
     icon: "/moura-prime-icon.webp",
   },

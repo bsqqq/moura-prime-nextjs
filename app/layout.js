@@ -17,7 +17,7 @@ export const metadata = {
   metadataBase: new URL(SITE_URL),
   title: {
     default:
-      "Terreno à venda na CE-085, Trairi-CE | 11,53 ha | Moura Prime Empreendimentos",
+      "Moura Prime Empreendimentos",
     template: "%s | Moura Prime Empreendimentos",
   },
   description:

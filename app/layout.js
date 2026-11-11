@@ -11,7 +11,7 @@ import ScrollFX from "../components/ScrollFX";
 // IMPORTANTE: troque este valor pelo domínio definitivo do site assim que
 // ele for registrado/publicado — ele é usado nas tags de SEO (canonical,
 // Open Graph) e no sitemap.
-const SITE_URL = "https://www.mouraprime.vercel.app";
+const SITE_URL = "https://mouraprime.vercel.app";
 
 export const metadata = {
   metadataBase: new URL(SITE_URL),
